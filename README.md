@@ -1,6 +1,7 @@
 # Modifed-owl
 This is the list of features owl has!
--Server joiner(captcha bypass) -Server leaver -Channel spammer -Dm spammer -Friend request spammer 
+<br />Server joiner(captcha bypass)
+-Server leaver -Channel spammer -Dm spammer -Friend request spammer 
 -If you are having any issues dm Opera#3942
 
 
