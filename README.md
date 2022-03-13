@@ -1,4 +1,7 @@
 # Modifed-owl
+
+(Obuscated due to skids)
+
 This is the list of features owl has!
 - Server joiner(captcha bypass)
 
