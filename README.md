@@ -21,7 +21,8 @@ This is the list of features owl has!
 # Showcase
 
 
-![FinalVideo_1647119462 889551 (1)](https://user-images.githubusercontent.com/101478014/158035224-39b5ce13-2572-48d5-9e40-6ac695723125.gif)
+![FinalVideo_1647155130 829566](https://user-images.githubusercontent.com/101478014/158049174-234ecad0-a7ed-4e17-9d09-b6f4abe33d75.gif)
+
 
 # Setup
 - 1 Make sure to have python installed
